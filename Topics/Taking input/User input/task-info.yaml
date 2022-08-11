@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: A message shown to the user by the computer.
+- text: Some data the computer receives from the user.
+- text: Some data the computer prints to the user.
+- text: The name of the user.
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6803#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 04 Aug 2022 11:18:21 UTC
+record: -1
+selected_options:
+- 1
+local_check: false

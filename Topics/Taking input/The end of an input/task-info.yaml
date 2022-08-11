@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: Once the user presses "Enter".
+- text: After 1 hour of waiting.
+- text: Never.
+- text: After the user presses "Esc".
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6805#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 04 Aug 2022 11:19:28 UTC
+record: -1
+selected_options:
+- 0
+local_check: false
